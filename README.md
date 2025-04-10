@@ -12,12 +12,9 @@ in total 1.240 km with a positive gain of 18.500 m.<br>
 <br>
 <a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">Explore the map here </a>
 with some extra pictures!<br>
-<br><br><br><br>
+<br><br><br><br><br><br>
 
-
-During the trip weather was fun,<br>
-So I grabbed meteo data of those days form <a href="https://open-meteo.com" target="_blank">Open meteo </a> <br>
-to put my fun on numbers
+During the trip weather was fun, so I grabbed meteo data of those days form <a href="https://open-meteo.com" target="_blank">Open meteo </a> to quantify how much fun I had.
 
 
 
