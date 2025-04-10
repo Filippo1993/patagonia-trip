@@ -14,8 +14,8 @@ with some extra pictures!<br>
 <br><br>
 
 During the trip weather was fun, <br>
-so I grabbed meteo data of those days form <a href="https://open-meteo.com" target="_blank">Open meteo </a> <br>
+so I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a> <br>
 to quantify how much fun I had.<br>
 <br><br>
 <img align="left" src="https://github.com/user-attachments/assets/60015f74-f31a-4795-828f-6623fc7f37b2" width="45%" style="border-radius: 40px;" />
-description<br>
+While I was mostly going north the wind was mostly going south-east, anyway, biking was fun!
