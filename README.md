@@ -7,12 +7,11 @@ it connects the Chilean regions of Aysén and Los Lagos.<br>
 The Carretera starts from Villa O'Higgins,<br>
 but I started a little more south from El Chalten.<br>
 <br>
-On the right is the gpx track of the bike adventure,<br>
+On the right is the gpx track of my bike adventure,<br>
 in total 1.240 km with a positive gain of 18.500 m.<br>
 <br>
-Here you can explore the map on the right,<br>
-with some pictures of the trip.<br>
-<a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">interactive gpx map</a>
+<a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">Explore the map here </a>
+with some extra pictures!<br>
 <br><br><br><br>
 
 aa
