@@ -2,7 +2,9 @@
 
 Repository of my solo bike trip of the Carretera Austral, it connects the Chilean regions of Aysén and Los Lagos. It starts from Villa O'Higgins and ends in Puerto Montt.
 <br><br>
-<img align="center" src="https://github.com/user-attachments/assets/9905ee4b-1a54-4562-8038-e2d5c2196f86" width="90%" style="border-radius: 40px;" />
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/9905ee4b-1a54-4562-8038-e2d5c2196f86" width="80%" style="border-radius: 40px;"/>
+</div>
 <br><br>
 On the right is the gpx track of my bike adventure, in total 1.240 km with a positive gain of 18.500 m.
 <a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">Explore the map here </a> with some extra pictures!
