@@ -7,7 +7,7 @@ Repository of my solo bike trip of the Carretera Austral, it connects the Chilea
 </div>
 <br><br>
 On the right is the gpx track of my bike adventure, in total 1.240 km with a positive gain of 18.500 m.
-<a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">Explore the map here </a> with some extra pictures!
+<a href="https://filippo1993.github.io/patagonia-trip/gps_trip.html" target="_blank">Explore the map here </a> with some extra pictures!
 <br><br>
 During the trip weather was fun, so I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a> to quantify how much fun I had.
 <br><br>
