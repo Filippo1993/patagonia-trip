@@ -1,7 +1,7 @@
 # patagonia-trip
 
 <img align="right" src="https://github.com/user-attachments/assets/9905ee4b-1a54-4562-8038-e2d5c2196f86" width="45%" style="border-radius: 40px;" />
-<br><br><br>
+<br><br>
 Repository for my solo bike trip of the Carretera Austral,<br>
 it connects the Chilean regions of Aysén and Los Lagos.<br>
 The Carretera starts from Villa O'Higgins,<br>
@@ -13,6 +13,8 @@ in total 1.240 km with a positive gain of 18.500 m.<br>
 Here you can explore the map on the right,<br>
 with some pictures of the trip.<br>
 <a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">interactive gpx map</a>
+<br><br>
 
+aa
 
 
