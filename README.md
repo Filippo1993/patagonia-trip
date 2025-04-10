@@ -16,6 +16,6 @@ with some extra pictures!<br>
 During the trip weather was fun, <br>
 so I grabbed meteo data of those days form <a href="https://open-meteo.com" target="_blank">Open meteo </a> <br>
 to quantify how much fun I had.<br>
-
-<img align="center" src="https://github.com/user-attachments/assets/60015f74-f31a-4795-828f-6623fc7f37b2" width="45%" style="border-radius: 40px;" />
-
+<br><br>
+<img align="left" src="https://github.com/user-attachments/assets/60015f74-f31a-4795-828f-6623fc7f37b2" width="45%" style="border-radius: 40px;" />
+description<br>
