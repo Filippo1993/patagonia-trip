@@ -18,5 +18,5 @@ so I grabbed meteo data of those days from <a href="https://open-meteo.com" targ
 to quantify how much fun I had.<br>
 <br><br>
 <img align="left" src="https://github.com/user-attachments/assets/60015f74-f31a-4795-828f-6623fc7f37b2" width="45%" style="border-radius: 40px;" />
-<br><br><br>
+<br><br>
 The bike took me a full month with 20 days of actual biking. During those days, while I was mostly going north, the wind was mostly going south-east, anyway, biking was fun!
