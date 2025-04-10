@@ -13,4 +13,4 @@ in total 1.240 km with a positive gain of 18.500 m.<br>
 Here you can explore the map on the right,<br>
 with some pictures of the trip.<br>
 <br>
-<a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">GPS Trip Visualization</a>
+<a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">interactive gpx map</a>
