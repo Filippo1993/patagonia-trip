@@ -15,7 +15,9 @@ with some extra pictures!<br>
 <br><br><br><br>
 
 
-Weather was fun, I grabbed meteo data of those days thanks to <a href="https://open-meteo.com" target="_blank">Open meteo </a>
+During the trip weather was fun,<br>
+So I grabbed meteo data of those days form <a href="https://open-meteo.com" target="_blank">Open meteo </a> <br>
+to put my fun on numbers
 
 
 
