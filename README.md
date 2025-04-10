@@ -10,3 +10,25 @@ a route that connects the the Chilean regions of Aysén and Los Lagos.
 
 
 This is the GPX track of the bike adventure, in total 1.240 km with a positive gain of 18.500 m.
+
+
+
+svsdv
+
+
+svdvsd
+sdvsdv
+sd
+v
+sdv
+
+
+
+
+
+
+sdv
+
+
+
+s
