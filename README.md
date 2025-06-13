@@ -15,7 +15,7 @@ During the trip weather was fun, so I grabbed meteo data of those days from <a h
   <img src="https://github.com/user-attachments/assets/c5efeb79-40cd-4856-8cf1-732b98a81494" width="100%" style="border-radius: 40px;"/>
 </div>
 <br><br>
-The bike took me a full month with 20 days of actual biking. During those days, while I was mostly going north, the wind was mostly going south-east, anyway, biking was fun!
+The bike took me a full month with 20 days of actual biking. During those days, while I was mostly going north, the wind was mostly going south-east, as the polar plot shows.
 
 
 
