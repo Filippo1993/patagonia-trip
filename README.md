@@ -6,7 +6,8 @@ Repository of my bike trip of the Carretera Austral, it connects the Chilean reg
   <img src="https://github.com/user-attachments/assets/9905ee4b-1a54-4562-8038-e2d5c2196f86" width="100%" style="border-radius: 40px;"/>
 </div>
 <br><br>
-Up here is the gpx track of my bike adventure, in total 1.240 km with a positive gain of 18.500 m. Check some pictures of my trip in this <a href="[https://open-meteo.com](https://filippo1993.github.io/patagonia-trip/gps_trip.html)" target="_blank">gpx map here! </a>
+Up here is the gpx track of my bike adventure, in total 1.240 km with a positive gain of 18.500 m. Check some pictures of my trip in this
+<a href="https://filippo1993.github.io/patagonia-trip/gps_trip.html" target="_blank">gpx map here! </a>
 
 <br><br>
 During the trip weather was fun, so I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a> to make some quantifications.
