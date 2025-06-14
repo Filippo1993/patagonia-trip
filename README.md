@@ -6,10 +6,10 @@ Repository of my bike trip of the Carretera Austral, it connects the Chilean reg
   <img src="https://github.com/user-attachments/assets/9905ee4b-1a54-4562-8038-e2d5c2196f86" width="100%" style="border-radius: 40px;"/>
 </div>
 <br><br>
-Up here is the gpx track of my bike adventure, in total 1.240 km with a positive gain of 18.500 m. explore my trip <a href="https://filippo1993.github.io/patagonia-trip/gps_trip.html" target="_blank">here </a> for some pictures along my way.
+Up here is the gpx track of my bike adventure, in total 1.240 km with a positive gain of 18.500 m. Explore my trip <a href="https://filippo1993.github.io/patagonia-trip/gps_trip.html" target="_blank">here </a> for some pictures along the way.
 
 <br><br>
-While biking I had a lot of upwind and when I came back home I was curious to make some quantifications.I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a>. The polar plot here shows that while I was mostly going north, the wind was mostly going south-east!
+While biking I had a lot of upwind and when I came back home I was curious to make some quantifications. I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a>. The polar plot here shows that while I was mostly going north, the wind was mostly going south-east!
 <br><br>
 
 <div style="display: flex; justify-content: center;">
