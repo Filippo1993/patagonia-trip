@@ -1,6 +1,6 @@
 # patagonia-trip
 
-Repository of my bike trip of the Carretera Austral, it connects the Chilean regions of Aysén and Los Lagos. It starts from Villa O'Higgins and ends in Puerto Montt.
+Repository of my bike trip of the Carretera Austral, it connects the Chilean regions of Aysén and Los Lagos. I started south, from El Chalten and ended in Puerto Montt.
 <br><br>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/9905ee4b-1a54-4562-8038-e2d5c2196f86" width="100%" style="border-radius: 40px;"/>
