@@ -12,7 +12,7 @@ I started south, from El Chalten, and ended north, in Puerto Montt.
 </div>
 <br>
 Up here is the gpx track and elevation profile of my bike adventure, in total around 1.200km with a positive gain of 18.500m. <br>
-Missing data points along the way are due to failures is satellite connection with the garmin and a couple of times because I've been taking a lift from boats to travel sea/lakes.
+Every purple dot is where I started that day, while missing data points are due to failures is satellite connection with the garmin and a couple of times because I've been taking a lift from boats to travel ocean/lakes.
 <a href="https://filippo1993.github.io/patagonia-trip/gps_trip.html" target="_blank">Explore my trip here </a> for some pictures along the way, I have selected some nice shots and located them with the coordinates that apparently are present by default in .heic image files of iPhones.
 <br><br>
 
@@ -24,5 +24,4 @@ I grabbed meteo data of those days from <a href="https://open-meteo.com" target=
   <img src="https://github.com/user-attachments/assets/c5efeb79-40cd-4856-8cf1-732b98a81494" width="50%" style="border-radius: 40px;"/>
 </div>
 
-
-
+This made me curious about climate change and wheather it was normal or I was kind of unlucky, so I started to give a look to historical wheather data.
