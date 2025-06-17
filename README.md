@@ -20,8 +20,12 @@ While biking I had a lot of upwind and when I came back home I was curious to ma
 I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a>. The polar plot here shows that while I was mostly going north, the wind was mostly going south-east!
 <br><br>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/c5efeb79-40cd-4856-8cf1-732b98a81494" width="50%" style="border-radius: 40px;"/>
+<div style="display: flex; justify-content: left;">
+<img src="https://github.com/user-attachments/assets/c5efeb79-40cd-4856-8cf1-732b98a81494" width="50%" style="border-radius: 40px;"/>
 </div>
+<sup>This is small text.</sup>
 
-This made me curious about climate change and wheather it was normal or I was kind of unlucky, so I started to give a look to historical wheather data.
+
+
+
+This made me curious about climate change and if it was normal or I was kind of unlucky. So I started to give a look to historical wheather data.
