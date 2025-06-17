@@ -1,15 +1,23 @@
 # patagonia-trip
 
-Repository of my bike trip of the Carretera Austral, it connects the Chilean regions of Aysén and Los Lagos. I started south, from El Chalten, and ended in Puerto Montt.
+This is a personal repository of my bike trip in South America, <br>
+my goal here is to play with gpx data that I collected while I was biking there. <br>
+Later at home I downloaded the tracks from from <a href="https://connect.garmin.com/modern/home" target="_blank">Garmin Connect </a>.
 <br><br>
+The idea of the trip was to travel along the Carretera Austral, it's a road that connects the Chilean regions of Aysén and Los Lagos. <br>
+I started south, from El Chalten, and ended north, in Puerto Montt.
+<br>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/9905ee4b-1a54-4562-8038-e2d5c2196f86" width="100%" style="border-radius: 40px;"/>
+<img src="https://github.com/user-attachments/assets/8f6de70a-0af1-4f6b-a3b1-68fc68d6de31" width="50%" style="border-radius: 40px;"/>
 </div>
+<br>
+Up here is the gpx track of my bike adventure, in total 1.240km with a positive gain of 18.500m. <br>
+Explore my trip <a href="https://filippo1993.github.io/patagonia-trip/gps_trip.html" target="_blank">here </a> for some pictures along the way.
 <br><br>
-Up here is the gpx track of my bike adventure, in total 1.240 km with a positive gain of 18.500 m. Explore my trip <a href="https://filippo1993.github.io/patagonia-trip/gps_trip.html" target="_blank">here </a> for some pictures along the way.
 
-<br><br>
-While biking I had a lot of upwind and when I came back home I was curious to make some quantifications. I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a>. The polar plot here shows that while I was mostly going north, the wind was mostly going south-east!
+
+While biking I had a lot of upwind and when I came back home I was curious to make some quantifications.
+I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a>. The polar plot here shows that while I was mostly going north, the wind was mostly going south-east!
 <br><br>
 
 <div style="display: flex; justify-content: center;">
