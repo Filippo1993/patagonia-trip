@@ -8,7 +8,7 @@ The idea of the trip was to travel along the Carretera Austral to enjoy nature a
 I started south, from El Chalten, and ended north, in Puerto Montt.
 <br>
 <div style="display: flex; justify-content: center;">
-<img src="https://github.com/user-attachments/files/20775699/map_elevation.pdf" width="100%" style="border-radius: 40px;"/>
+<img src="https://github.com/user-attachments/files/20792955/map_elevation.pdf" width="100%" style="border-radius: 40px;"/>
 </div>
 <br>
 Up here is the gpx track and elevation profile of my bike adventure, in total around 1.200km with a positive gain of 18.500m. <br>
