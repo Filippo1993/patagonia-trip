@@ -43,5 +43,6 @@ I also started to give a look to temperature fluctuations during this last 80 ye
 When looking at the same data, but in blocks of 10 years it is more clear that average temperature increased around more than 1 °C in the last decades.
 <br><br>
 <div style="display: flex; justify-content: center;">
-<img src="https://github.com/user-attachments/assets/c7426222-db6f-4f63-bb4a-8b55493b936d" width="30%" style="border-radius: 40px;"/>
+<img src="https://github.com/user-attachments/assets/c97f8650-4e82-4ce0-8e62-ec63fa0b75e2" width="30%" style="border-radius: 40px;"/>
+
 
