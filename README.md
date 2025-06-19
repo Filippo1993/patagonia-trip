@@ -33,15 +33,17 @@ This made me curious whether wind was always blowing in that direction or if I w
 And indeed 2025 is perfectly falling inside the distribution.
 <div style="display: flex; justify-content: center;">
 <img src="https://github.com/user-attachments/assets/c259d55d-1617-4935-a00c-6a7dc813fdd0" width="40%" style="border-radius: 40px;"/>
+</div>
 <br><br>
 I also started to give a look to temperature fluctuations during this last 80 years, when looking at the mean temperature at the ground (2m from the soil) it seems that there is a slow trend of temperature increase. This can be seen in the heatmap down here by eye.
 <br><br>
 <div style="display: flex; justify-content: center;">
 <img src="https://github.com/user-attachments/assets/c2a18d5d-1343-4db0-8a28-f9631d7dfb61" width="100%" style="border-radius: 40px;"/>
+</div>
 <br><br>
 When looking at the same data, but in blocks of 10 years it is more clear that average temperature increased around more than 1 °C in the last decades.
 <br><br>
 <div style="display: flex; justify-content: center;">
 <img src="https://github.com/user-attachments/assets/c97f8650-4e82-4ce0-8e62-ec63fa0b75e2" width="30%" style="border-radius: 40px;"/>
-
+</div>
 
