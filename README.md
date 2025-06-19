@@ -17,7 +17,7 @@ Every purple dot is where I started that day, while missing data points are due 
 <br><br>
 
 While biking I had a lot of upwind and when I came back home I was curious to make some quantifications.
-I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a>. The polar plot here shows that while I was mostly going north, the wind was mostly going south-east!
+I grabbed meteo data of those days from <a href="https://open-meteo.com" target="_blank">Open meteo </a>. The polar plot here shows that while I was mostly going north, the wind was mostly blowing south-east!
 <br><br>
 
 <div style="display: flex; justify-content: left;">
@@ -25,7 +25,23 @@ I grabbed meteo data of those days from <a href="https://open-meteo.com" target=
 </div>
 <sup>This is small text.</sup>
 
+<br><br>
+This made me curious whether wind was always blowing in that direction or if I was unlucky. Open Meteo gives all acess to historical weather data. I grabed the dominant wind direction of every starting point of my trip (the purple dots on the map above) for the corresponding day of every year, starting from 1941. If you give a look at the heatmap down here you can see that is pretty normal to observe wind blowing south-east from the pacific ocean.
+<div style="display: flex; justify-content: center;">
+<img src="https://github.com/user-attachments/assets/40c6e8fa-0000-45b4-b15c-58bce88c409e" width="100%" style="border-radius: 40px;"/>
+  
+<br><br>
+And indeed 2025 is perfectly falling inside the distribution.
+<div style="display: flex; justify-content: center;">
+<img src="https://github.com/user-attachments/assets/c259d55d-1617-4935-a00c-6a7dc813fdd0" width="40%" style="border-radius: 40px;"/>
+<br><br>
+I also started to give a look to temperature fluctuations during this last 80 years, when looking at the mean temperature at the ground (2m from the soil) it seems that there is a slow trend of temperature increase. This can be seen in the heatmap down here by eye.
+<br><br>
+<div style="display: flex; justify-content: center;">
+<img src="https://github.com/user-attachments/assets/c2a18d5d-1343-4db0-8a28-f9631d7dfb61" width="100%" style="border-radius: 40px;"/>
+<br><br>
+When looking at the same data, but in blocks of 10 years it is more clear that average temperature increased around more than 1 °C in the last decades.
+<br><br>
+<div style="display: flex; justify-content: center;">
+<img src="https://github.com/user-attachments/assets/c7426222-db6f-4f63-bb4a-8b55493b936d" width="30%" style="border-radius: 40px;"/>
 
-
-
-This made me curious about climate change and if it was normal or I was kind of unlucky. So I started to give a look to historical wheather data.
