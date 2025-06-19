@@ -23,7 +23,6 @@ I grabbed meteo data of those days from <a href="https://open-meteo.com" target=
 <div style="display: flex; justify-content: left;">
 <img src="https://github.com/user-attachments/assets/c5efeb79-40cd-4856-8cf1-732b98a81494" width="50%" style="border-radius: 40px;"/>
 </div>
-<sup>This is small text.</sup>
 
 <br><br>
 This made me curious whether wind was always blowing in that direction or if I was unlucky. Open Meteo gives all acess to historical weather data. I grabed the dominant wind direction of every starting point of my trip (the purple dots on the map above) for the corresponding day of every year, starting from 1941. If you give a look at the heatmap down here you can see that is pretty normal to observe wind blowing south-east from the pacific ocean.
