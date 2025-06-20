@@ -46,15 +46,14 @@ I was also curious about temperature fluctuations during this last 80 years; whe
 </div>
 
 <br><br>
-When looking at the same data, but in blocks of 10 years it is more clear that average temperature increased around more than 1 °C in the last decades. 
-<br><br>
+When looking at the same data, but in blocks of 10 years it is more clear that average temperature increased around more than 1 °C in the last decades. This is in line with what is reported in the in the site of the  <a href="https://climate.nasa.gov/vital-signs/global-temperature/?intent=111" target="_blank">NASA</a>, global temperature is slowly rising, and is doing that in unprecented way. Give a look to <a href="https://science.nasa.gov/climate-change/evidence/" target="_blank">this article </a> if you want to know more about global warming and climate change.
 
+<br><br>
 <div style="display: flex; justify-content: center;">
 <img src="https://github.com/user-attachments/assets/c97f8650-4e82-4ce0-8e62-ec63fa0b75e2" width="30%" style="border-radius: 40px;"/>
 </div>
 
 <br><br>
-This is in line with what is reported in the in the site of the  <a href="https://climate.nasa.gov/vital-signs/global-temperature/?intent=111" target="_blank">NASA</a>, global temperature is slowly rising, and is doing that in unprecented way. Give a look to <a href="https://science.nasa.gov/climate-change/evidence/" target="_blank">this article </a> if you want to know more about global warming and climate change.
 
 
 
