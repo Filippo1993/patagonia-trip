@@ -54,11 +54,8 @@ When looking at the same data, but in blocks of 10 years it is more clear that a
 </div>
 
 <br><br>
-This is in line with what is reported in the in the site of the  <a href="https://climate.nasa.gov/vital-signs/global-temperature/?intent=111" target="_blank">NASA</a> (see the plot below), global temperature is slowly rising, and is doing that in unprecented way. Give a look to <a href="https://science.nasa.gov/climate-change/evidence/" target="_blank">this article </a> if you want to know more.
+This is in line with what is reported in the in the site of the  <a href="https://climate.nasa.gov/vital-signs/global-temperature/?intent=111" target="_blank">NASA</a>, global temperature is slowly rising, and is doing that in unprecented way. Give a look to <a href="https://science.nasa.gov/climate-change/evidence/" target="_blank">this article </a> if you want to know more about global warming and climate change.
 
-<div style="display: flex; justify-content: center;">
-<img src="https://github.com/user-attachments/assets/f38577a1-d380-4e92-a58a-c230b73fdf94" width=50%" style="border-radius: 40px;"/>
-</div>
 
 
 
